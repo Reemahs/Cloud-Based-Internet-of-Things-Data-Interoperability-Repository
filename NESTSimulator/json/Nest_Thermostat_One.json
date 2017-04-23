@@ -1,0 +1,79 @@
+{
+"metadata":{	
+	"access_token": 		"FmDPkzyzaQe",
+	"client_version": 		1
+},
+
+"thermostats":{
+	"device_id":			"peyiJNo0UldT2YlIVtYaGQ",
+	"locale": 			"en-GB",
+	"software_version": 		"4.0",
+	"structure_id": 		"kfdG95.ytrFDS",
+	"name": 			"Living Room",
+	"name_long": 			"Living Room (Downstairs)",
+	"last_connection": 		"2017-03-18T16:30:00.00Z",
+	"is_online": 			true,
+	"can_cool": 			false,
+	"can_heat": 			true,
+	"is_using_emergency_heat": 	false,
+	"has_fan": 			false,
+	"fan_timer_active": 		false,
+	"fan_timer_timeout": 		null,
+	"has_leaf": 			true,
+	"temperature_scale":		"C",
+	"target_temperature_f": 	72,
+	"target_temperature_c": 	22.2,
+	"target_temperature_high_f": 	73,
+	"target_temperature_high_c": 	22.8,
+	"target_temperature_low_f": 	71,
+	"target_temperature_low_c": 	21.7,
+	"eco_temperature_high_f": 	70,
+	"eco_temperature_high_c": 	21.1,
+	"eco_temperature_low_f": 	69,
+	"eco_temperature_low_C": 	20.6,
+	"away_temperature_high_f": 	60,
+	"away_temperature_high_c": 	25.6,
+	"away_temperature_low_f": 	55,
+	"away_temperature_low_c": 	12.8,
+	"hvac_mode": 			"heat",
+	"previous_hvac_mode": 		"heat",
+	"ambient_temperature_f": 	70,
+	"ambient_temperature_c": 	21.1,
+	"humidity": 			35,
+	"hvac_state": 			"heat",
+	"where_id": 			"Fqp3wJI",
+	"is_locked": 			false,
+	"locked_temp_min_f": 		73,
+	"locked_temp_min_c": 		22.8,
+	"locked_temp_max_f": 		71,
+	"locked_temp_max_c": 		21.7,
+	"label": 			"Downstairs",
+	"where_name": 			"Living Room",
+	"sunlight_correction_enabled": 	false,
+	"sunlight_correction_active": 	false,
+	"fan_timer_duration": 		null, 
+	"time_to_target": 		"~0",
+	"time_to_target_training": 	"ready"
+},
+
+"structures":{
+	"structure_id": 				"V1FabWH21nwVyd4RW",
+	"away": 					"home",
+	"name": 					"My Home",
+	"country_code": 				"UK",
+	"postal_code":					"MK4 9LH",
+	"peak_period_start_time": 			"2017-03-18T18:00:00.00Z",
+	"peak_period_end_time": 			"2017-03-18T23:00:00.00Z",
+	"time_zone": 					"Europe-London",
+	"eta":{
+		"trip_id": 				null,
+		"estimated_arrival_window_begin": 	"2017-03-19T17:30:00.00Z",
+		"estimated_arrival_window_end": 	"2017-03-19T18:00:00.00Z"
+	},
+	"rhr_enrollment": 				false,
+	"wheres":{
+		"where_id": 				"Fqp3wJI",
+		"name": 				"Living Room"
+		}
+	}
+}
