@@ -1,0 +1,176 @@
+{
+	"Climate": {
+		"name": ,
+		"climentRef": ,
+		"isOccupied": ,
+		"isOptimized": ,
+		"coolFan": ,
+		"heatFan": ,
+		"vent": ,
+		"ventilatorMinOnTime": ,
+		"owner": ,
+		"type": ,
+		"colour": ,
+		"coolTemp": ,
+		"heatTemp": ,
+		"sensors": 
+	},
+
+	"Device": {
+		"deviceID": ,
+		"name": ,
+		"sensors": ,
+		"outputs": 
+	},
+
+
+	"Event": {
+		"type": ,
+		"name": ,
+		"running": ,
+		"startDate": ,
+		"startTime": ,
+		"endDate": ,
+		"endTime": ,
+		"isOccupied": ,
+		"isCoolOff": ,
+		"isHeatOff": ,
+		"coolHoldTemp": ,
+		"heatHoldTemp": ,
+		"fan": ,
+		"vent": ,
+		"ventilatorMinOnTime": ,
+		"isOptional": ,
+		"isTemperatureRelative": ,
+		"coolRelativeTemp": ,
+		"heatRelativeTemp": ,
+		"isTemperatureAbsolute": ,
+		"dutyCyclePercentage": ,
+		"fanMinOnTime": ,
+		"occupiedSensorActive": ,
+		"unoccupiedSensorActive": ,
+		"drRampUpTemp": ,
+		"drRampUpTime": ,
+		"linkRef": ,
+		"holdClimateRef": 
+	},
+
+	"HouseDetails": {
+		"style": ,
+		"size": ,
+		"numberOfFloors": ,
+		"numberOfRooms": ,
+		"numberOfOccupants": ,
+		"age": ,
+		"windowEfficiency": 
+	},
+
+	"Location": {
+		"timeZoneOffsetMinutes": ,
+		"timeZone": ,
+		"isDaylightSaving": ,
+		"streetAddress": ,
+		"city": ,
+		"provinceState": ,
+		"country": ,
+		"postalCode": ,
+		"phoneNumber": 
+	},
+
+	"RemoteSensor": {
+		"id": ,
+		"name": ,
+		"type": ,
+		"code": ,
+		"inUse": ,
+		"capability": {
+			"id": ,
+			"Type": ,
+			"value": 
+		}
+	},
+
+	"Runtime": {
+		"runtimeRev": ,
+		"connected": ,
+		"firstConnected": ,
+		"disconnectDateTime":, 
+		"lastModified": ,
+		"runtimeDate": ,
+		"runtimeInterval": ,
+		"actualTemperature": ,
+		"actualHumidity": ,
+		"desiredHeat": ,
+		"desiredCool": ,
+		"desiredHumidity": ,
+		"desiredDehumidity": ,
+		"desiredFanMode": ,
+		"desiredCoolRange": 
+	},
+
+	"Sensor": {
+		"name": ,
+		"manufacturer": ,
+		"model": ,
+		"zone": ,
+		"sensorId": ,
+		"type": ,
+		"usage": ,
+		"numberOfBits": ,
+		"bconstant": ,
+		"thermistorSize": ,
+		"tempCorrection": ,
+		"gain": ,
+		"maxVoltage": ,
+		"multiplier": 
+	},
+
+	"Thermostat": {
+		"identifier": ,
+		"name": ,
+		"thermostatRev": ,
+		"isRegistered": ,
+		"modelNumber": ,
+		"brand": ,
+		"features": ,
+		"lastModified": ,
+		"thermostatTime": ,
+		"utcTime": ,
+		"settings": ,
+		"runtime": ,
+		"location": ,
+		"weather": ,
+		"houseDetails": ,
+		"equipmentStatus": ,
+		"notificationSettings": ,
+		"privacy": ,
+		"version": ,
+		"securitySettings": ,
+	},
+
+	"User": {
+		"userName": ,
+		"displayName": ,
+		"firstName": ,
+		"lastName": ,
+		"honerific": ,
+		"registerDate": ,
+		"registerTime": ,
+		"defaultThermostatIdentifier": ,
+		"managementRef": ,
+		"utilityRef": ,
+		"supportRef": ,
+		"phoneNumber": ,
+		"isResidential": ,
+		"isDeveloper": ,
+		"isManagement": ,
+		"isUtility": ,
+		"isContractor": 
+	},
+
+	"Version": {
+		"thermostatFirmwareVersion": 
+	},
+}
+
+
