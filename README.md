@@ -20,7 +20,7 @@ All the projects have been packaged into the deploy folders which include:
 As only shell scripts have been provided the projects can only be run in an Linux environments.
 
 ### Installation ###
-The only non-=java dependency for the complete framework is the [MySQL database](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html). This database contains the mappings between IoT devices and the transformation class name. A SQL DDL and DML dump has been [provided](MySQLDatabase) to ensure that the same database structure is maintained. 
+The only non-java dependency for the complete framework is the [MySQL database](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html). This database contains the mappings between IoT devices and the transformation class name. A SQL DDL and DML dump has been [provided](MySQLDatabase) to ensure that the same database structure is maintained. 
 
 ## Operation Instructions ##
 **Operation of the interoperability framework is currently only supported in Linux.**
