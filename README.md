@@ -1,4 +1,4 @@
-# Cloud-Based-Internet-of-Things-Data-Interoperability-Repository #
+# Cloud-Based Internet of Things Data Interoperability Repository #
 ### BEng Final Year Project, Dept. of Automatic Control and Systems Engineering, The University of Sheffield, UK ###
 This project designed and developed an Internet of Things, hub based interoperability framework. This projects uploaded to this software repository include:
 * The [central hub](HubServer) which facilitates communication between IoT devices, the repository and a single user application
